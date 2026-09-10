@@ -47,8 +47,10 @@ A Machine Learning web application that predicts the likelihood of heart disease
 6. Model evaluation
 7. Deployment using Streamlit
 
-   Analysis
+   Distribution of Continous Variable Analysis
    <img width="1495" height="507" alt="image" src="https://github.com/user-attachments/assets/0a409f0f-87d6-4b9c-b94c-fe2e42c6b9c0" />
+   <img width="1005" height="456" alt="image" src="https://github.com/user-attachments/assets/a721d8fb-1e49-44fd-8c89-d5db9d1cfa44" />
+
 
 
 ## 📂 Project Structure
